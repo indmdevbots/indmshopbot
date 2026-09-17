@@ -178,4 +178,4 @@ Join our channel for more Bots like this: [@InDMDevBots](https://t.me/InDMDevBot
 # Languages in version 6 coming soon 👇:
 ![photo_2025-09-10 08 21 53](https://i.ibb.co/d54nQJ7/v5-3.png)
 
-#From InDMDev
+#By InDMDev

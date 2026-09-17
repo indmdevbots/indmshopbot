@@ -4,11 +4,11 @@ The best Telegram shopping Bot in the market.
 The bot has many features to increase your sales and customers' satisfaction and trust seamlessly. 
 
 # SELLER'S STORE CONTROL PANEL:
-![MY STORE Page For Sellers](https://github.com/user-attachments/assets/37b9d3e0-96be-46cd-8da3-3afaf982d09a)
 
+<img width="616" height="1280" alt="image" src="https://github.com/user-attachments/assets/be57fa26-1ac1-4470-ba07-b80cdfff2a3b" />
 
 # BUYER'S FRONT PAGE:
-![photo_2024-09-10 08 08 57](https://github.com/user-attachments/assets/09f527ea-afa8-403a-ade4-f9abceeda057)
+<img width="619" height="1280" alt="image" src="https://github.com/user-attachments/assets/1f19632d-a9ec-4338-944c-b9c1c31628c2" />
 
 
 
@@ -173,9 +173,9 @@ Join our channel for more Bots like this: [@InDMDevBots](https://t.me/InDMDevBot
 
 
 # Version 6 coming soon 👇:
-![photo_2025-09-10 08 21 53](https://i.ibb.co/8mhDS9F/v5-2.png)
+<img width="624" height="1280" alt="image" src="https://github.com/user-attachments/assets/c267e971-fbb3-46df-9657-cb7e64ab0d6a" />
 
 # Languages in version 6 coming soon 👇:
-![photo_2025-09-10 08 21 53](https://i.ibb.co/d54nQJ7/v5-3.png)
+<img width="616" height="1280" alt="image" src="https://github.com/user-attachments/assets/66d327e1-6a1e-4078-ba72-809501b5d770" />
 
 #By InDMDev

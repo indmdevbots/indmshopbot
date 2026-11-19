@@ -178,4 +178,4 @@ Join our channel for more Bots like this: [@InDMDevBots](https://t.me/InDMDevBot
 # Languages in version 6 coming soon 👇:
 <img width="616" height="1280" alt="image" src="https://github.com/user-attachments/assets/66d327e1-6a1e-4078-ba72-809501b5d770" />
 
-#By InDMDev
+#From InDMDev
